@@ -1,5 +1,6 @@
 # Video Downloader
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub stars](https://img.shields.io/github/stars/google/langextract.svg?style=social&label=Star)](https://github.com/harshc17/video_downloader)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/harshc17/video_downloader)
 
@@ -249,3 +250,4 @@ This tool is for educational and personal use only. Please respect copyright law
 
 
 **Happy Downloading! 🎉** 
+
