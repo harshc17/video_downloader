@@ -1,4 +1,7 @@
 # Video Downloader
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/harshc17/video_downloader)
 
 A powerful and user-friendly video downloader application built with Python and Tkinter. This tool allows you to download videos from YouTube and other web sources with advanced features like playlist management, quality selection, and pause/resume functionality.
 
@@ -243,5 +246,6 @@ pip install --upgrade yt-dlp
 This tool is for educational and personal use only. Please respect copyright laws and terms of service of the platforms you download from. The developers are not responsible for any misuse of this software.
 
 ---
+
 
 **Happy Downloading! 🎉** 
