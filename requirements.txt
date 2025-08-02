@@ -1,0 +1,4 @@
+yt-dlp>=2023.12.30
+requests>=2.25.0
+imageio-ffmpeg>=0.4.8
+colorama>=0.4.4 
